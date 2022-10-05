@@ -1,2 +1,2 @@
 # w3example
-w3 
+You know its about solving your problems first
